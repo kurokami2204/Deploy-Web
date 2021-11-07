@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gson-2.8.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20210307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mssql-jdbc-8.4.1.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
